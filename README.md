@@ -5,7 +5,7 @@ This project automates the process of network access requests using ServiceNow.
 Employees can request network access through a catalog item, which is automatically 
 approved, assigned, and tracked using Flow Designer and task automation.
 
-## 🎯 Objectives
+##  Objectives
 - Reduce manual handling of network requests
 - Automate approvals and task assignment
 - Improve response time and tracking
